@@ -1,16 +1,3 @@
-Got it — you want the **FULL, final, submission-ready content** with **nothing missing**, exactly aligned with the TrulyMadly assignment.
-Below is a **complete package** you can directly use in your GitHub repo.
-
-I’ll give you **everything** in one place 👇
-(no assumptions, no gaps, no pass/fail risks)
-
----
-
-# ✅ FINAL SUBMISSION CONTENT (COPY–PASTE READY)
-
----
-
-## 📄 `README.md` (FULL & COMPLIANT)
 
 ````md
 # 🧠 GenAI Medical Chatbot – Multi-Agent System
